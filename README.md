@@ -1,4 +1,5 @@
 # Project: Authentication and Validation in DRF
+ -> Use Django admin panel to add users and to generate token.
 # Screenshots:
 1. No reviews at first.
 ![Screenshot](Screenshots/No_Ratings.png)
