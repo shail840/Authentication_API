@@ -42,6 +42,8 @@ This project focuses on implementing authentication and validation mechanisms wi
     python manage.py runserver
     ```
 6. Access the API using:- http://127.0.0.1:8000/api/ratings
+
+7. Use Insomnia for testing the API.
 ## Concluding Notes
 This project demonstrates the importance of implementing robust authentication and validation mechanisms in web applications, particularly when dealing with sensitive user data. By leveraging DRF and related packages, developers can ensure a secure and seamless user experience.
 
