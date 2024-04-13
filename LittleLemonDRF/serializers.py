@@ -24,5 +24,5 @@ class RatingSerializer(serializers.ModelSerializer):
         'rating':{
             'max_value':5,
             'min_val':0,
-        }
+        },
     }   
