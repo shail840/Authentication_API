@@ -1,4 +1,18 @@
 # Project: Authentication and Validation in DRF
+# Screenshots:
+1. No reviews at first.
+![Screenshot](Screenshots/No_Ratings.png)
+2. Unauthorized error encountered for Unauthenticated user.
+![Screenshot](Screenshots/Unauthenticateed_User.PNG)
+3. Review created for authenticated user.
+![Screenshot](Screenshots/Authenticated_User.PNG)
+4. Created review and can be seen in DRF view.
+![Screenshot](Screenshots/Review_Created.png)
+5. Bad request as throttling limit reached.
+![Screenshot](Screenshots/Throttling_limits_reached.PNG)
+6. Review stored in Mysql Database. 
+![Screenshot](Screenshots/Review_Created_In_Databases.PNG)
+
 
 ## Overview
 This project focuses on implementing authentication and validation mechanisms within Django Rest Framework (DRF). It involves adding form validators to form data, performing token and session authentication, and utilizing popular packages like Djoser and authtoken for default routes. Additionally, the Django admin panel is used for user and token management.
